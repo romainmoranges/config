@@ -16,7 +16,7 @@ It will be modified or improved over time and over tests.
 | __RAM__       | 16GO DDR4 @2133Mhz                          |
 | __GPU__       | NVIDIA GTX 950m @4Go                        |
 | __Disks__     | SSD Intel 520 @240Go; SSD M.2 Crucial @256Go|
-| __OS__        | Windows 10 NT Home 1903; Debian 10 Buster   |
+| __OS__        | Windows 10 NT Home 1903; Ubuntu 18.04       |
 
 ### Software: 
 
